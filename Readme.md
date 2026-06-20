@@ -20,3 +20,5 @@ This skill has multiple reference files to account for different aspects of skil
 To ensure that the skill performs optimally, we have two types of verification in the evals file as well as the grilling file. The evals file reviews the outputs of the new skill quantatitatively and qualitatively similar to Anthropic's version. The grilling file establishes an iterative loop to resolve uncertainties and edge cases.
 
 In the scripts folder, these premade scripts allow Claude to quickly scaffold the file directory for the new skill as well as package the skill once the building is done.
+
+To add this skill to your Claude environment, download this file as a zip file and upload to Claude by clicking Skills > Manage Skills > + > Upload > then upload the zip file.

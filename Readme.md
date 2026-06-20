@@ -22,3 +22,6 @@ To ensure that the skill performs optimally, we have two types of verification i
 In the scripts folder, these premade scripts allow Claude to quickly scaffold the file directory for the new skill as well as package the skill once the building is done.
 
 To add this skill to your Claude environment, download this file as a zip file and upload to Claude by clicking Skills > Manage Skills > + > Upload > then upload the zip file.
+
+Beyond Claude, you can also use these skills with other AI platforms such as Codex. While this specific skill has been optimized for Claude, I would be curious to see how it performs on other models. 
+

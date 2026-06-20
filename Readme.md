@@ -25,3 +25,4 @@ To add this skill to your Claude environment, download this file as a zip file a
 
 Beyond Claude, you can also use these skills with other AI platforms such as Codex. While this specific skill has been optimized for Claude, I would be curious to see how it performs on other models. 
 
+I will add more notes on testing this skill below on some benchmark skills later.
